@@ -1,0 +1,5 @@
+if(EXISTS "C:/Users/Stoypik/Documents/testPO/cmake-build-debug/tests/lr1_tests[1]_tests.cmake")
+  include("C:/Users/Stoypik/Documents/testPO/cmake-build-debug/tests/lr1_tests[1]_tests.cmake")
+else()
+  add_test(lr1_tests_NOT_BUILT lr1_tests_NOT_BUILT)
+endif()

@@ -1,0 +1,3 @@
+C:/Users/user.DESKTOP-DJG3P0G/Desktop/Старыгина/лр1/testPO/out/build/x64-Debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir
+C:/Users/user.DESKTOP-DJG3P0G/Desktop/Старыгина/лр1/testPO/out/build/x64-Debug/_deps/googletest-subbuild/CMakeFiles/edit_cache.dir
+C:/Users/user.DESKTOP-DJG3P0G/Desktop/Старыгина/лр1/testPO/out/build/x64-Debug/_deps/googletest-subbuild/CMakeFiles/rebuild_cache.dir

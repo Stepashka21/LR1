@@ -1,0 +1,21 @@
+# ninja log v5
+2	58	7375708771158396	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	711fdcc840373d78
+2	58	7375708771158396	C:/Users/Stoypik/Documents/testPO/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	711fdcc840373d78
+59	4118	7375708811743258	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	e6bf7ed2a7a3d2bc
+59	4118	7375708811743258	C:/Users/Stoypik/Documents/testPO/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	e6bf7ed2a7a3d2bc
+4119	4269	0	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	bf7b7897ae4447f8
+4119	4269	0	C:/Users/Stoypik/Documents/testPO/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	bf7b7897ae4447f8
+4270	4322	7375708813783601	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	1fcf879cfee04173
+4270	4322	7375708813783601	C:/Users/Stoypik/Documents/testPO/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	1fcf879cfee04173
+4322	4377	7375708814323602	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	5ae84dbdf3018871
+4322	4377	7375708814323602	C:/Users/Stoypik/Documents/testPO/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	5ae84dbdf3018871
+4377	4429	7375708814863582	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	db2436ea2d9632c8
+4377	4429	7375708814863582	C:/Users/Stoypik/Documents/testPO/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	db2436ea2d9632c8
+4429	4484	7375708815393575	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	15345ac7b8712f37
+4429	4484	7375708815393575	C:/Users/Stoypik/Documents/testPO/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	15345ac7b8712f37
+4484	4536	7375708815922620	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	efa3fa9118156576
+4484	4536	7375708815922620	C:/Users/Stoypik/Documents/testPO/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	efa3fa9118156576
+4536	4609	7375708816652606	CMakeFiles/googletest-populate-complete	cc1fba99a4489e9c
+4536	4609	7375708816652606	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	cc1fba99a4489e9c
+4536	4609	7375708816652606	C:/Users/Stoypik/Documents/testPO/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	cc1fba99a4489e9c
+4536	4609	7375708816652606	C:/Users/Stoypik/Documents/testPO/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	cc1fba99a4489e9c

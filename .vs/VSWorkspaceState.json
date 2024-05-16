@@ -1,0 +1,20 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin",
+    "\\lib",
+    "\\out",
+    "\\out\\build",
+    "\\tests",
+    "\\tests\\resources"
+  ],
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  "SelectedNode": "\\CMakeLists.txt",
+=======
+  "SelectedNode": "\\tests\\lr1_test.cpp",
+>>>>>>> 41f4d7b138daaa008148b77cae1f38fccfd94952
+>>>>>>> d7fc87d3516cbe4be6ee9333a6b99bf240f51e25
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,44 @@
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: C:/Users/user.DESKTOP-DJG3P0G/Desktop/лр1/testPO/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_affd8 && [1/2] Building C object CMakeFiles\cmTC_affd8.dir\CheckIncludeFile.c.obj
+FAILED: CMakeFiles/cmTC_affd8.dir/CheckIncludeFile.c.obj 
+C:\PROGRA~2\MICROS~4\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS  /Zi /Ob0 /Od /RTC1 -MDd /showIncludes /FoCMakeFiles\cmTC_affd8.dir\CheckIncludeFile.c.obj /FdCMakeFiles\cmTC_affd8.dir\ /FS -c CheckIncludeFile.c
+CheckIncludeFile.c(1): fatal error C1083: Не удается открыть файл включение: pthread.h: No such file or directory,
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: F:/Старыгина/лр1/testPO/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_f826a && [1/2] Building C object CMakeFiles\cmTC_f826a.dir\CheckIncludeFile.c.obj
+FAILED: CMakeFiles/cmTC_f826a.dir/CheckIncludeFile.c.obj 
+C:\PROGRA~2\MICROS~4\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS  /Zi /Ob0 /Od /RTC1 -MDd /showIncludes /FoCMakeFiles\cmTC_f826a.dir\CheckIncludeFile.c.obj /FdCMakeFiles\cmTC_f826a.dir\ /FS -c CheckIncludeFile.c
+CheckIncludeFile.c(1): fatal error C1083: Не удается открыть файл включение: pthread.h: No such file or directory,
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: D:/Старыгина/лр1/testPO/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_46a36 && [1/2] Building C object CMakeFiles\cmTC_46a36.dir\CheckIncludeFile.c.obj
+FAILED: CMakeFiles/cmTC_46a36.dir/CheckIncludeFile.c.obj 
+C:\PROGRA~2\MICROS~4\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS  /Zi /Ob0 /Od /RTC1 -MDd /showIncludes /FoCMakeFiles\cmTC_46a36.dir\CheckIncludeFile.c.obj /FdCMakeFiles\cmTC_46a36.dir\ /FS -c CheckIncludeFile.c
+CheckIncludeFile.c(1): fatal error C1083: Не удается открыть файл включение: pthread.h: No such file or directory,
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: C:/Users/user.DESKTOP-DJG3P0G/Desktop/Старыгина/лр1/testPO/out/build/x64-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_0388f && [1/2] Building C object CMakeFiles\cmTC_0388f.dir\CheckIncludeFile.c.obj
+FAILED: CMakeFiles/cmTC_0388f.dir/CheckIncludeFile.c.obj 
+C:\PROGRA~2\MICROS~4\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS  /Zi /Ob0 /Od /RTC1 -MDd /showIncludes /FoCMakeFiles\cmTC_0388f.dir\CheckIncludeFile.c.obj /FdCMakeFiles\cmTC_0388f.dir\ /FS -c CheckIncludeFile.c
+CheckIncludeFile.c(1): fatal error C1083: Не удается открыть файл включение: pthread.h: No such file or directory,
+ninja: build stopped: subcommand failed.
+
+
+

@@ -1,0 +1,17 @@
+# ninja log v5
+11	1093	7375709213575690	lib/CMakeFiles/lr1_lib.dir/lr1.cpp.obj	1a890c41618975be
+16	1126	7375709213875694	bin/CMakeFiles/LR1.dir/main.cpp.obj	f51913a7c15524b0
+1096	1306	7375709215725642	lib/liblr1_lib.a	ed93cb69ec6c0c84
+1306	1485	7375709217445592	bin/LR1.exe	e0bfbde92f6b3970
+20	3087	7375709233475218	tests/CMakeFiles/lr1_tests.dir/lr1_test.cpp.obj	61adc0b955718f08
+1485	3831	7375709240985028	_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj	554681ba35ccd02a
+1126	5282	7375709255424675	_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj	a26808b449cfbf58
+3832	5804	7375709260704555	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	68a0d55d46065573
+3088	12898	7375709331432622	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	a973b23af7b58765
+12900	16290	7375709365558706	lib/libgtest.a	5fa4331b920f84ef
+16294	16372	7375709366378689	lib/libgtest_main.a	7ca393c652eb4183
+16290	16719	7375709369858612	lib/libgmock.a	36343a93822998ad
+16719	16791	7375709370568586	lib/libgmock_main.a	3287c7dc44b69df1
+16372	20389	7375709406502403	tests/lr1_tests.exe	8a57cb372b59e605
+16372	20389	7375709406502403	tests/lr1_tests[1]_tests.cmake	8a57cb372b59e605
+16372	20389	7375709406502403	C:/Users/Stoypik/Documents/testPO/cmake-build-debug/tests/lr1_tests[1]_tests.cmake	8a57cb372b59e605
